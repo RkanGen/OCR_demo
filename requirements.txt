@@ -1,0 +1,13 @@
+torchvision
+transformers
+megfile
+tiktoken
+verovio
+opencv-python
+streamlit
+Pillow
+cairosvg
+accelerate
+numpy
+markdown
+shutils
